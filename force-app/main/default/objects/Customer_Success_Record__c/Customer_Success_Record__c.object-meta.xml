@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label>Customer Success Record</label>
+    <pluralLabel>Customer Success Records</pluralLabel>
+    <nameField>
+        <type>Text</type>
+        <label>Customer Success Record Name</label>
+    </nameField>
+    <deploymentStatus>Deployed</deploymentStatus>
+    <sharingModel>ReadWrite</sharingModel>
+    <visibility>Public</visibility>
+    <allowInChatterGroups>true</allowInChatterGroups>
+    <description>Records for tracking customer success metrics and engagement</description>
+</CustomObject>
